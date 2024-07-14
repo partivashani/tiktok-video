@@ -1,0 +1,28 @@
+.moreoptionbox{
+    /* border: 4px solid rgb(49, 233, 123); */
+    height: 200px;
+    width: 200px;
+    color: rgb(63, 62, 62);
+    background-color:white;
+   border-radius: 20px;
+box-shadow: 2.5px 2.5px 2.5px 2.5px  rgba(0, 0, 0, 0.177),
+ -2.5px -2.5px 2.5px 2.5px rgba(0, 0, 0, 0.123);
+ margin: 0 auto;
+ position: absolute;
+ top: 70%;
+ left: 65%;
+ transform: translate(-50%,-50%);
+ display: none;
+ z-index: 1;
+}
+.moremenu1{
+    display: flex;
+    align-items: center;
+    gap:30px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 8px;
+    font-size: 18px;
+    
+}
+
